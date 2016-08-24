@@ -12,6 +12,7 @@ The goal of this list is to develop a prioritized list of essential reading for 
 
 ## Essential Reading, in order of priority:
 
+* [@sroberts Introduction to DFIR](https://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/)
 * [SANS Digital Forensics Cheat-Sheets](https://digital-forensics.sans.org/community/cheat-sheets)
 * [Spotting the Adversary with Windows Event Log Monitoring](https://www.iad.gov/iad/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm)
 * [Reducing the Effectiveness of Pass-the-Hash](https://www.iad.gov/iad/library/reports/reducing-the-effectiveness-of-pass-the-hash.cfm)
@@ -24,6 +25,9 @@ The goal of this list is to develop a prioritized list of essential reading for 
 
 ### Network Security Monitoring (NSM)
 
+* <http://www.malware-traffic-analysis.net/>
+* <http://blog.malwaremustdie.org>
+
 ### Host Monitoring
 
 * [WMI VS. WMI: Monitoring for Malicious Activity](https://www.fireeye.com/blog/threat-research/2016/08/wmi_vs_wmi_monitor.html)
@@ -34,6 +38,7 @@ The goal of this list is to develop a prioritized list of essential reading for 
 
 ## Github Repos:
 
+* [Threat Hunting Project](https://github.com/ThreatHuntingProject/ThreatHunting)
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 A curated list of tools and resources for security incident response, aimed to
 help security analysts and DFIR teams.
@@ -41,6 +46,8 @@ help security analysts and DFIR teams.
 A curated list of Awesome Threat Intelligence resources 
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 A curated list of awesome malware analysis tools and resources. 
+* [Awesome Security](https://github.com/sbilly/awesome-security)
+A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 
 ## Essential References:
 

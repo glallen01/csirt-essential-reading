@@ -52,9 +52,35 @@ Hardening templates from the Defense Information Systems Agency. Also [StigViewe
 * [National Vulnerability Database](https://web.nvd.nist.gov/view/vuln/search)
 NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). This data enables automation of vulnerability management, security measurement, and compliance. NVD includes databases of security checklists, security related software flaws, misconfigurations, product names, and impact metrics.
 
+## Books:
 
 
 # Uncategorized / Unprioritized documents:
+
+These need triage to move into the list. If so, add a summary of each link also.
+
+## queue up to reading list
+
+* [The Diamond Model of Intrusion Analysis](https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf)
+This paper presents a novel model of intrusion analysis built by analysts, derived from years of experience, asking the simple question, “What is the underlying method to our work?” The model establishes the basic atomic element of any intrusion activity, the event, composed of four core features: adversary, infrastructure, capability, and victim. These features are edge-connected representing their underlying relationships and arranged in the shape of a diamond, giving the model its name: the Diamond Model. It further defines additional meta-features to support higher-level constructs such as linking events together into activity threads and further coalescing events and threads into activity groups. These elements, the event, thread, and group all contribute to a foundational and comprehensive model of intrusion activity built around analytic processes. It captures the essential concepts of intrusion analysis and adversary operations while allowing the model flexibility to expand and encompass new ideas and concepts. The model establishes, for the first time, a formal method applying scientific principles to intrusion analysis – particularly those of measurement, testability, and repeatability – providing a comprehensive method of activity documentation, synthesis, and correlation. This scientific approach and simplicity produces improvements in analytic effectiveness, efficiency, and accuracy. Ultimately, the model provides opportunities to integrate intelligence in real-time for network defense, automating correlation across events, classifying events with confidence into adversary campaigns, and forecasting adversary operations while planning and gaming mitigation strategies.
+
+* [SANS Digital Forensics and Incident Response Blog | Protecting Privileged Domain
+Accounts: PsExec Deep-Dive](https://digital-forensics.sans.org/blog/2012/12/17/protecting-privileged-domain-accounts-psexec-deep-dive)
+
+* [An Analysis of Meterpreter during Post-Exploitation](https://www.sans.org/reading-room/whitepapers/forensics/analysis-meterpreter-post-exploitation-35537)
+Abstract: Much has been written about using the Metasploit Framework, but what has received minimal attention is an analysis of how it accomplishes what it does. This paper provides an analysis of the post-exploitation activity of a Meterpreter shell on a compromised Windows 7 system. Areas looked at include the characteristics of the stager and payload, fingerprinting the HTTP C2 and beaconing traffic, finding Meterpreter in memory, and several post-exploitation modules that could be used. By focusing on what occurs instead of how to accomplish it, defenders are better equipped to detect and respond.
+
+* [Detecting DNS Tunneling](https://www.sans.org/reading-room/whitepapers/dns/detecting-dns-tunneling-34152)
+Abstract: DNS is a foundational protocol which enables applications such as web browsers to function based on domain names. DNS is not intended for a command channel or general purpose tunneling. However, several utilities have been developed to enable tunneling over DNS. Because it is not intended for general data transfer, DNS often has less attention in terms of security monitoring than other protocols such as web traffic. If DNS tunneling goes undetected, it represents a significant risk to an organization. This paper reviews DNS tunneling utilities and discusses practical techniques for detecting DNS tunneling. Two categories of detection considered are payload analysis and traffic analysis. The payload detection techniques have been used to detect successfully specific DNS tunneling utilities. The traffic analysis based technique can be used to universally detect DNS tunneling. With these detection techniques implemented organizations can reduce the risk associated with DNS tunneling.
+
+
+## queue up to references
+
+* [SANS Intrusion Discovery Cheatsheet, Windows](https://www.sans.org/media/score/checklists/ID-Windows.pdf)
+
+* [SANS Intrusion Discovery Cheatsheet, Linux](https://www.sans.org/media/score/checklists/ID-Linux.pdf)
+
+## needs assessment:
 
 * Shedding Light on Security Incidents Using Network Flows
 <https://www.sans.org/reading-room/whitepapers/networkdevs/shedding-light-security-incidents-network-flows-33935>
@@ -65,30 +91,11 @@ NVD is the U.S. government repository of standards based vulnerability managemen
 * Assessing Outbound Traffic to Uncover Advanced Persistent Threat:
 <https://www.sans.edu/student-files/projects/JWP-Binde-McRee-OConnor.pdf>
 
-* An Analysis of Meterpreter during Post-Exploitation -
-<https://www.sans.org/reading-room/whitepapers/forensics/analysis-meterpreter-post-exploitation-35537>
-
 * An Approach Detect Malware Call Home Activities:
 <https://www.sans.org/reading-room/whitepapers/detection/approach-detect-malware-call-home-activities-34480>
 
 * Detect, Contain and Control Cyberthreats:
 <https://www.sans.org/reading-room/whitepapers/analyst/detect-control-cyberthreats-36187>
-
-* Detecting DNS Tunneling:
-<https://www.sans.org/reading-room/whitepapers/dns/detecting-dns-tunneling-34152>
-
-* SANS Intrusion Discovery Cheatsheet, Windows:
-<https://www.sans.org/media/score/checklists/ID-Windows.pdf>
-
-* SANS Intrusion Discovery Cheatsheet, Linux:
-<https://www.sans.org/media/score/checklists/ID-Linux.pdf>
-
-* SANS Digital Forensics and Incident Response Blog | Protecting Privileged Domain
-Accounts: PsExec Deep-Dive | SANS Institute:
-<https://digital-forensics.sans.org/blog/2012/12/17/protecting-privileged-domain-accounts-psexec-deep-dive>
-
-* The Diamond Model of Intrusion Analysis:
-<https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf>
 
 * Automated Defense - Using Threat Intelligence to Augment:
 <https://www.sans.org/reading-room/whitepapers/threats/automated-defense-threat-intelligence-augment-35692>

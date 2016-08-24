@@ -48,6 +48,8 @@ A curated list of Awesome Threat Intelligence resources
 A curated list of awesome malware analysis tools and resources. 
 * [Awesome Security](https://github.com/sbilly/awesome-security)
 A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
+* [APTnotes](https://github.com/aptnotes/data) APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
+* [OLD APTnotes](https://github.com/kbandla/APTnotes) Various public documents, whitepapers and articles about APT campaigns
 
 ## Essential References:
 

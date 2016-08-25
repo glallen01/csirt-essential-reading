@@ -2,7 +2,11 @@
 
 Reading List for CSIRT Team Members
 
-The goal of this list is to develop a prioritized list of essential reading for network defenders.
+The goal of this list is to develop a prioritized list of essential reading for
+network defenders. While other github repos (_Awesome_ links below) contain
+comprehensive lists of references and tools, this list aims to provide a
+starting point of the top documents defenders need to have a firm operational
+foundation.
 
 ## Overview Reading:
 

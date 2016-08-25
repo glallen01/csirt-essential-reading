@@ -113,66 +113,40 @@ Abstract: DNS is a foundational protocol which enables applications such as web 
 
 ## queue up to references
 
-* [SANS Intrusion Discovery Cheatsheet, Windows](https://www.sans.org/media/score/checklists/ID-Windows.pdf)
-
-* [SANS Intrusion Discovery Cheatsheet, Linux](https://www.sans.org/media/score/checklists/ID-Linux.pdf)
 
 ## needs assessment:
 
+### SANS Reading Room
+
 * [Shedding Light on Security Incidents Using Network Flows](https://www.sans.org/reading-room/whitepapers/networkdevs/shedding-light-security-incidents-network-flows-33935)
-
 * [An Approach to Detect Malware Call-Home Activities](https://www.sans.org/reading-room/whitepapers/detection/approach-detect-malware-call-home-activities-34480)
-
 * [Assessing Outbound Traffic to Uncover Advanced Persistent Threat](https://www.sans.edu/student-files/projects/JWP-Binde-McRee-OConnor.pdf)
-
 * [An Approach Detect Malware Call Home Activities](https://www.sans.org/reading-room/whitepapers/detection/approach-detect-malware-call-home-activities-34480)
-
 * [Detect, Contain and Control Cyberthreats](https://www.sans.org/reading-room/whitepapers/analyst/detect-control-cyberthreats-36187)
-
 * [Automated Defense - Using Threat Intelligence to Augment](https://www.sans.org/reading-room/whitepapers/threats/automated-defense-threat-intelligence-augment-35692)
-
 * [Trends in Bot Net Command and Control](https://www.giac.org/paper/gsec/4396/trends-bot-net-command-control/107402)
-
 * [Covert Channels Over Social Networks](https://www.sans.org/reading-room/whitepapers/threats/covert-channels-social-networks-33960)
-
 * [Detecting and Preventing Unauthorized Outbound Traffic](https://www.sans.org/reading-room/whitepapers/detection/detecting-preventing-unauthorized-outbound-traffic-1951)
-
 * [gh0st-dshell-decoding-undocumented-protocols](https://www.sans.org/reading-room/whitepapers/detection/gh0st-dshell-decoding-undocumented-protocols-37032)
-
 * [SANS: The Conficker Worm](https://www.sans.org/security-resources/malwarefaq/conficker-worm.php)
-
-* [SANS Digital Forensics Cheat Sheets](https://digital-forensics.sans.org/community/cheat-sheets)
-
+* [An Introduction to the Computer Security Incident Response Team (CSIRT) Set-Up and Operational Considerations](https://www.giac.org/paper/gsec/3907/introduction-computer-security-incident-response/106281)
+* [Incident Handlers Handbook](https://www.sans.org/reading-room/whitepapers/incident/incident-handlers-handbook-33901)
 * [Profiling SSL Clients with tshark](https://isc.sans.edu/forums/diary/Profiling+SSL+Clients+with+tshark/21361/)
-
-* SANS Digital Forensics and Incident Response Blog | The Importance of Command and Control Analysis for Incident Response
-<https://digital-forensics.sans.org/blog/2014/03/31/the-importance-of-command-and-control-analysis-for-incident-response>
-
-* [Using Risk Analysis to Inform Intelligence Analysis](http://www.rand.org/pubs/working_papers/WR464.html)
-
-* [IOCs: How to Create, Manage, and Understand](https://malwerewolf.com/2014/12/iocs-create-manage-understand-manifesto/)
-
-* [yahoo/PyIOCe](https://github.com/yahoo/PyIOCe)
-
-* [Fireeye IOC Editor](https://www.fireeye.com/services/freeware/ioc-editor.html)
-
-* [The Incident Object Description Exchange Format](https://tools.ietf.org/html/rfc5070)
-
-* [Cyber Threat Intel and IR Report Template](https://zeltser.com/media/docs/cyber-threat-intel-and-ir-report-template.pdf)
-
+* [SANS Digital Forensics and Incident Response Blog | The Importance of Command and Control Analysis for Incident Response](https://digital-forensics.sans.org/blog/2014/03/31/the-importance-of-command-and-control-analysis-for-incident-response)
 * [SANS Security Information/Event Management Security Development Life Cycle Version 5](https://www.sans.org/media/score/esa-current.pdf)
-
-* [Cyber Security Incident Response: Are we as prepared as we think?](https://www.lancope.com/sites/default/files/Lancope-Ponemon-Report-Cyber-Security-Incident-Response.pdf)
-
 * [APT Incident Handling Checklist](https://www.sans.org/media/score/checklists/APT-IncidentHandling-Checklist.pdf)
 
-* [An Introduction to the Computer Security Incident Response Team (CSIRT) Set-Up and Operational Considerations](https://www.giac.org/paper/gsec/3907/introduction-computer-security-incident-response/106281)
+### Other.
 
-* [Incident Handlers Handbook](https://www.sans.org/reading-room/whitepapers/incident/incident-handlers-handbook-33901)
-
-* [Slicksheet Segregating Networks And Functions](https://www.nsa.gov/ia/_files/factsheets/I43V_Slick_Sheets/Slicksheet_SegregatingNetworksAndFunctions_Web.pdf)
-
-* [Slicksheet Limiting Workstation to Workstation Communication](https://www.nsa.gov/ia/_files/factsheets/I43V_Slick_Sheets/Slicksheet_LimitingWtWCommunication_Web.pdf)
+* [Using Risk Analysis to Inform Intelligence Analysis](http://www.rand.org/pubs/working_papers/WR464.html)
+* [IOCs: How to Create, Manage, and Understand](https://malwerewolf.com/2014/12/iocs-create-manage-understand-manifesto/)
+* [yahoo/PyIOCe](https://github.com/yahoo/PyIOCe)
+* [Fireeye IOC Editor](https://www.fireeye.com/services/freeware/ioc-editor.html)
+* [IETF: The Incident Object Description Exchange Format](https://tools.ietf.org/html/rfc5070)
+* [Cyber Threat Intel and IR Report Template](https://zeltser.com/media/docs/cyber-threat-intel-and-ir-report-template.pdf)
+* [Lancope: Cyber Security Incident Response: Are we as prepared as we think?](https://www.lancope.com/sites/default/files/Lancope-Ponemon-Report-Cyber-Security-Incident-Response.pdf)
+* [NSA IAD: Slicksheet Segregating Networks And Functions](https://www.nsa.gov/ia/_files/factsheets/I43V_Slick_Sheets/Slicksheet_SegregatingNetworksAndFunctions_Web.pdf)
+* [NSA IAD: Slicksheet Limiting Workstation to Workstation Communication](https://www.nsa.gov/ia/_files/factsheets/I43V_Slick_Sheets/Slicksheet_LimitingWtWCommunication_Web.pdf)
 
 ## License
 

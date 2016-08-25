@@ -39,6 +39,9 @@ Please create issues if you have comments or suggestions! Pull requests welcome!
 
 ### Threats
 
+For internal red-teams or threat intel groups, for understanding methods and tactics blue teams may be faced with.
+
+* [Pentester Lab Bootcamp](https://pentesterlab.com/bootcamp)
 * [Fireeye Red Team Tool Roundup](https://www.fireeye.com/blog/threat-research/2016/07/red_team_tool_roundup.html)
 
 ## Github Repos:

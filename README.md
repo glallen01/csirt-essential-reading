@@ -24,7 +24,6 @@ Please create issues if you have comments or suggestions! Pull requests welcome!
 * [Reducing the Effectiveness of Pass-the-Hash](https://www.iad.gov/iad/library/reports/reducing-the-effectiveness-of-pass-the-hash.cfm)
 * [Mitigating Pass-the-Hash (PtH) Attacks and Other Credential Theft](https://www.microsoft.com/en-us/download/details.aspx?id=36036)
 
-
 ## Topic Specific Essential Reading:
 
 ### Host Analysis
@@ -81,6 +80,10 @@ A collection of awesome software, libraries, documents, books, resources and coo
   measurement, and compliance. NVD includes databases of security checklists,
   security related software flaws, misconfigurations, product names, and impact
   metrics.
+
+* [Cisco Design Zone for Security](http://www.cisco.com/c/en/us/solutions/enterprise/design-zone-security/index.html)
+  Cisco Validated Designs provide best-practice configurations for network
+  topologies and configurations.
 
 ## Books:
 

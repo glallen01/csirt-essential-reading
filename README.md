@@ -8,6 +8,8 @@ comprehensive lists of references and tools, this list aims to provide a
 starting point of the top documents defenders need to have a firm operational
 foundation.
 
+Please create issues if you have comments or suggestions! Pull requests welcome!
+
 ## Overview Reading:
 
 * [CIS Top 20](https://www.sans.org/critical-security-controls)

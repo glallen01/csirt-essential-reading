@@ -59,13 +59,26 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 ## Essential References:
 
-* [CIS Secure Configuration Benchmarks](https://benchmarks.cisecurity.org/)
+* Hardening Guides:
 
-* [Security Technical Implementation Guides (STIGs)](http://iase.disa.mil/stigs/Pages/index.aspx)
-Hardening templates from the Defense Information Systems Agency. Also [StigViewer](https://www.stigviewer.com/stigs)
+  Although IT Operations are responsible for implementation of systems and
+  hardening guides, defenders should be deeply aware of available
+  controls. Hardening guides should not be considered only as profiles to audit
+  against, but as tools for defense and monitoring. Are you monitoring existing
+  controls for compliance and violation? Or selecting additional controls that
+  can provide useful data for threat-hunting?
+  * [CIS Secure Configuration Benchmarks](https://benchmarks.cisecurity.org/)
+  * [Security Technical Implementation Guides (STIGs)](http://iase.disa.mil/stigs/Pages/index.aspx)
+    Hardening templates from the Defense Information Systems Agency.
+    Also: [StigViewer](https://www.stigviewer.com/stigs)
 
 * [National Vulnerability Database](https://web.nvd.nist.gov/view/vuln/search)
-NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). This data enables automation of vulnerability management, security measurement, and compliance. NVD includes databases of security checklists, security related software flaws, misconfigurations, product names, and impact metrics.
+  NVD is the U.S. government repository of standards based vulnerability
+  management data represented using the Security Content Automation Protocol
+  (SCAP). This data enables automation of vulnerability management, security
+  measurement, and compliance. NVD includes databases of security checklists,
+  security related software flaws, misconfigurations, product names, and impact
+  metrics.
 
 ## Books:
 

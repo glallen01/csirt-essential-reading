@@ -50,6 +50,8 @@ A curated list of awesome malware analysis tools and resources.
 A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 * [APTnotes](https://github.com/aptnotes/data) APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
 * [OLD APTnotes](https://github.com/kbandla/APTnotes) Various public documents, whitepapers and articles about APT campaigns
+* [Awesome pcaptools](https://github.com/caesar0301/awesome-pcaptools)
+* [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
 
 ## Essential References:
 

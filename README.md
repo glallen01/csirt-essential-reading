@@ -30,6 +30,7 @@ Please create issues if you have comments or suggestions! Pull requests welcome!
 
 ### Network Security Monitoring (NSM)
 
+* [C2 Phone Home: Leveraging SecurityOnion to Identify Command and Control Channels](http://www.ericconrad.com/2016/09/c2-phone-home-leveraging-securityonion.html)
 * <http://www.malware-traffic-analysis.net/>
 * <http://blog.malwaremustdie.org>
 

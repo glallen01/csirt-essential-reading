@@ -13,7 +13,7 @@ Please create issues if you have comments or suggestions! Pull requests welcome!
 ## Overview Reading:
 
 * [CIS Top 20](https://www.sans.org/critical-security-controls)
-* [NSA Manageable Network Plan Guide](https://www.iad.gov/iad/customcf/openAttachment.cfm?FilePath=/iad/library/ia-guidance/security-configuration/networks/assets/public/upload/manageable-network-plan-guide.pdf)
+* [NSA Manageable Network Plan Guide](https://www.iad.gov/iad/library/ia-guidance/security-configuration/networks/manageable-network-plan.cfm)
 * [NSA Methodology for Adversary Obstruction](https://www.iad.gov/iad/library/reports/nsa-methodology-for-adversary-obstruction.cfm)
 
 ## Essential Reading, in order of priority:

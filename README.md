@@ -20,6 +20,7 @@ Please create issues if you have comments or suggestions! Pull requests welcome!
 
 * [@sroberts Introduction to DFIR](https://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/)
 * [SANS Digital Forensics Cheat-Sheets](https://digital-forensics.sans.org/community/cheat-sheets)
+* [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 * [Spotting the Adversary with Windows Event Log Monitoring](https://www.iad.gov/iad/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm)
 * [Reducing the Effectiveness of Pass-the-Hash](https://www.iad.gov/iad/library/reports/reducing-the-effectiveness-of-pass-the-hash.cfm)
 * [Mitigating Pass-the-Hash (PtH) Attacks and Other Credential Theft](https://www.microsoft.com/en-us/download/details.aspx?id=36036)

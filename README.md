@@ -143,6 +143,7 @@ Abstract: DNS is a foundational protocol which enables applications such as web 
 
 ### Other.
 
+* [Framework for Threat Hunting](https://sqrrl.com/media/Framework-for-Threat-Hunting-Whitepaper.pdf)
 * [Using Risk Analysis to Inform Intelligence Analysis](http://www.rand.org/pubs/working_papers/WR464.html)
 * [IOCs: How to Create, Manage, and Understand](https://malwerewolf.com/2014/12/iocs-create-manage-understand-manifesto/)
 * [yahoo/PyIOCe](https://github.com/yahoo/PyIOCe)

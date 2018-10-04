@@ -18,7 +18,7 @@ Please create issues if you have comments or suggestions! Pull requests welcome!
 
 ## Essential Reading, in order of priority:
 
-* [@sroberts Introduction to DFIR](https://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/)
+* [@sroberts Introduction to DFIR](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180)
 * [SANS Digital Forensics Cheat-Sheets](https://digital-forensics.sans.org/community/cheat-sheets)
 * [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 * [Spotting the Adversary with Windows Event Log Monitoring](https://www.iad.gov/iad/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm)

@@ -117,7 +117,7 @@ Abstract: DNS is a foundational protocol which enables applications such as web 
 
 
 ## queue up to references
-
+https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf
 
 ## needs assessment:
 
